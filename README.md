@@ -34,4 +34,4 @@ Laravel 9, Bootstrap, MySQL, Library Javascript lainnya.
 😱 User dapat melihat daftar kegiatan sesuai statusnya
 
 ##
-Sekian Terimakasih 😁🖕
+Sekian Terimakasih 😁
