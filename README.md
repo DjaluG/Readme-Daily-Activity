@@ -1,8 +1,7 @@
 
 # Daily Activity📚
 
-Merupakan aplikasi berbasis website yang digunakan 
-untuk membantu pengguna membuat jadwal kegiatan.
+Merupakan aplikasi berbasis website yang digunakan untuk membantu mengorganisir daftar kegiatan yang akan atau telah dilakukan, yang juga dapat menjadi media pengingat bagi penggunanya. Aplikasi ini bisa digunakan untuk membuat agenda kegiatan pribadi untuk menunjak produktifitas harian pengguna.
 
 ## Konsep Dan Tujuan📍
 Tujuan dibuatnya aplikasi DailyActivity ini untuk membantu mengorganisir daftar kegiatan yang akan atau telah dilakukan, yang juga dapat menjadi media pengingat bagi penggunanya dan meningkatkan produktivitas
