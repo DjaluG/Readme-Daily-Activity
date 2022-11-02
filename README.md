@@ -39,3 +39,6 @@ Laravel 9, Bootstrap, MySQL, Library Javascript lainnya.
 
 
 ## ERD And DataType
+![ERD ToDo](https://user-images.githubusercontent.com/110319811/199372618-278ea09d-41e7-49ad-81df-1489678ef36e.png)
+
+## 
