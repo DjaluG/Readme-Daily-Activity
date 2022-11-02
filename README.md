@@ -34,6 +34,7 @@ Laravel 9, Bootstrap, MySQL, Library Javascript lainnya.
 😱 User dapat melihat daftar kegiatan sesuai statusnya
 
 ## User Flow
+![User Flow](https://user-images.githubusercontent.com/110319811/199372492-641193a4-787b-4594-8bfd-7f8575063036.png)
 
 
 
